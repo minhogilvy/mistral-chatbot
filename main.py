@@ -80,11 +80,11 @@ def create_chain(system_prompt):
 
 # Set the webpage title
 st.set_page_config(
-    page_title="Verticual Assistant!"
+    page_title="Verticurl Assistant!"
 )
 
 # Create a header element
-st.header("Verticual Assistant!")
+st.header("Verticurl Assistant!")
 
 # This sets the LLM's personality for each prompt.
 # The initial personality provided is basic.
